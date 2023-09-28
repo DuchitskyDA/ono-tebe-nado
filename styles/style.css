@@ -73,6 +73,7 @@
   близко к PP */
   gap: 33px;
   list-style: circle; 
+  text-wrap: nowrap;
 }
 
 .header__links-list-item_no-bullit {
